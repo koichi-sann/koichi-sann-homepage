@@ -4,9 +4,9 @@ import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
 import thumbReactJS from '../public/images/contents/reactjs.png'
-import thumbReduxSaga from '../public/images/contents/ReduxSaga.png'
-import thumbNext from '../public/images/contents/Next.png'
-import thumbTypeScript from '../public/images/contents/TypeScript.png'
+import thumbReduxSaga from '../public/images/contents/reduxsaga.png'
+import thumbNext from '../public/images/contents/next.png'
+import thumbTypeScript from '../public/images/contents/typescript.png'
 
 const Resources = () => (
   <Layout title="Resources">
